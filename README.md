@@ -1,4 +1,4 @@
-## Modern To-Do Application
+# Modern To-Do Application
 
 This is a modern ToDo application with features such as:
 
@@ -10,12 +10,12 @@ This is a modern ToDo application with features such as:
 - task deletion
 - edit tasks text & tags (working on)
 
-# Preview of the Application
+## Preview of the Application
 
 Live link - (will add shortly)
 ![Alt text](assets/todo-app.png)
 
-# React + Vite
+### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
