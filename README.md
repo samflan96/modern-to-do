@@ -5,7 +5,7 @@ This is a modern ToDo application with features such as:
 - adding tasks
 - adding tags to tasks
 - being able to add each tasks to different status : "todo", "doing", "done"
-- drag and drop tasks to different columns based on status
+- drag and drop tasks to different columns based on current status
 - total tasks count in each status
 - task deletion
 - edit tasks text & tags (working on)
